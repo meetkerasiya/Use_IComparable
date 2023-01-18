@@ -1,0 +1,15 @@
+C:\Users\Meet  Kerasiya\source\repos\Use_IComparable\Use_IComparable\obj\Debug\net6.0\Use_IComparable.csproj.AssemblyReference.cache
+C:\Users\Meet  Kerasiya\source\repos\Use_IComparable\Use_IComparable\obj\Debug\net6.0\Use_IComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meet  Kerasiya\source\repos\Use_IComparable\Use_IComparable\obj\Debug\net6.0\Use_IComparable.AssemblyInfoInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\Use_IComparable\Use_IComparable\obj\Debug\net6.0\Use_IComparable.AssemblyInfo.cs
+C:\Users\Meet  Kerasiya\source\repos\Use_IComparable\Use_IComparable\obj\Debug\net6.0\Use_IComparable.csproj.CoreCompileInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\Use_IComparable\Use_IComparable\bin\Debug\net6.0\Use_IComparable.exe
+C:\Users\Meet  Kerasiya\source\repos\Use_IComparable\Use_IComparable\bin\Debug\net6.0\Use_IComparable.deps.json
+C:\Users\Meet  Kerasiya\source\repos\Use_IComparable\Use_IComparable\bin\Debug\net6.0\Use_IComparable.runtimeconfig.json
+C:\Users\Meet  Kerasiya\source\repos\Use_IComparable\Use_IComparable\bin\Debug\net6.0\Use_IComparable.dll
+C:\Users\Meet  Kerasiya\source\repos\Use_IComparable\Use_IComparable\bin\Debug\net6.0\Use_IComparable.pdb
+C:\Users\Meet  Kerasiya\source\repos\Use_IComparable\Use_IComparable\obj\Debug\net6.0\Use_IComparable.dll
+C:\Users\Meet  Kerasiya\source\repos\Use_IComparable\Use_IComparable\obj\Debug\net6.0\refint\Use_IComparable.dll
+C:\Users\Meet  Kerasiya\source\repos\Use_IComparable\Use_IComparable\obj\Debug\net6.0\Use_IComparable.pdb
+C:\Users\Meet  Kerasiya\source\repos\Use_IComparable\Use_IComparable\obj\Debug\net6.0\Use_IComparable.genruntimeconfig.cache
+C:\Users\Meet  Kerasiya\source\repos\Use_IComparable\Use_IComparable\obj\Debug\net6.0\ref\Use_IComparable.dll
